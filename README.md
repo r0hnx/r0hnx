@@ -23,9 +23,12 @@
 
 Hi, I'm [Rohan Kumar](https://rohanxo.web.app/), a Full Stack Developer 🚀 from India, Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC). Beside's programming, I enjoy eating food and traveling.
 
-|   👨     |      💻      |
-|----------|:-------------:|
-|- 👨🏽‍💻 I’m currently working on something cool :wink:;</br>- 🌱 I’m currently learning GraphQL and C++; </br>- 💬 Ask me about anything, I am happy to help;</br>- 📫 How to reach me: [@r0hnx](https://twitter.com/r0hnx);</br>- 😄 Pronouns: He/His;</br>- ⚡ Fun fact: I spend almost 12 hours listening songs everyday;| <a href="https://github.com/r0hnx"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hnx&theme=light&hide_langs_below=4&line_height=40" /></a>|
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning GraphQL and C++;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@r0hnx](https://twitter.com/r0hnx);
+- 😄 Pronouns: He/His;
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday;
   
 **Languages and Tools:**  
 
