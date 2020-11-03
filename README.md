@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=r0hnx.r0hnx" alt="r0hnx" /> </p>
 
-<a href="https://twitter.com/r0hnx">
+<a href="https://twitter.com/r0hnx" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rohancodes/">
+<a href="https://www.linkedin.com/in/rohancodes/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/reqres">
+<a href="https://t.me/reqres" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/rohan.codes/">
+<a href="https://www.instagram.com/rohan.codes/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/r0hnx/">
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm [Rohan Kumar](https://rohanxo.web.app/), a Full Stack Developer 🚀 from India, Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Rohan Kumar](https://rohanxo.web.app/), a Full Stack Developer 🚀 from India. Beside's programming, I enjoy eating food and traveling.
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and C++;
