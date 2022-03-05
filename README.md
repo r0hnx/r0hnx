@@ -5,7 +5,7 @@ Hi, I'm **Rohan Kumar**, a Full Stack Developer 🚀 from India.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and JS;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@r0hnx](https://twitter.com/r0hnx);
+- 📫 Feel free to reach out: [@r0hnx](https://twitter.com/r0hnx);
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: I spend almost 10 hours listening songs everyday;
   
