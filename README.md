@@ -3,7 +3,7 @@
 Hi, I'm **Rohan Kumar**, a Full Stack Developer 🚀 from India.
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and JS;
+- 🌱 I’m currently learning GraphQL and Go;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Feel free to reach out: [@r0hnx](https://twitter.com/r0hnx);
 - 😄 Pronouns: He/Him;
